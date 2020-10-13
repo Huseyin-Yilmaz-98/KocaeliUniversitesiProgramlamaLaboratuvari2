@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetflixProje:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="NetflixProje.jar">
+      <element id="module-output" name="NetflixProje" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/SQL/sqlite-jdbc-3.30.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

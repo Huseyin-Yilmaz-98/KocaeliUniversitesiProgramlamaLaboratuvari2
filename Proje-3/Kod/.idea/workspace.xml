@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="NetflixProje:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="021414af-7a7f-4c2b-8a08-630bfb0b5250" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c39Wa7a7I2zapx23IqLvwqhyi4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AnaEkran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Netflix.AnaEkran" />
+      <module name="NetflixProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Netflix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnaPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Netflix.AnaPanel" />
+      <module name="NetflixProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Netflix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Netflix.Main" />
+      <module name="NetflixProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Netflix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Netflix.deneme" />
+      <module name="NetflixProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Netflix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Netflix.main2" />
+      <module name="NetflixProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Netflix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main2" />
+        <item itemvalue="Application.deneme" />
+        <item itemvalue="Application.AnaEkran" />
+        <item itemvalue="Application.AnaPanel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021414af-7a7f-4c2b-8a08-630bfb0b5250" name="Default Changelist" comment="" />
+      <created>1589746441020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589746441020</updated>
+      <workItem from="1589746460262" duration="1635000" />
+      <workItem from="1589748108829" duration="303000" />
+      <workItem from="1589748430080" duration="3538000" />
+      <workItem from="1589752360306" duration="2862000" />
+      <workItem from="1589755978740" duration="14000" />
+      <workItem from="1589799203828" duration="2000" />
+      <workItem from="1589833290763" duration="44000" />
+      <workItem from="1589833711420" duration="7377000" />
+      <workItem from="1589907044041" duration="26000" />
+      <workItem from="1589907905959" duration="1449000" />
+      <workItem from="1589920707421" duration="6472000" />
+      <workItem from="1589937831774" duration="9000" />
+      <workItem from="1590003814900" duration="5974000" />
+      <workItem from="1590085776646" duration="35000" />
+      <workItem from="1590089035609" duration="7291000" />
+      <workItem from="1590322717430" duration="5386000" />
+      <workItem from="1590430484968" duration="7206000" />
+      <workItem from="1590445480989" duration="966000" />
+      <workItem from="1590456112460" duration="1461000" />
+      <workItem from="1590489526091" duration="7584000" />
+      <workItem from="1590497546559" duration="2663000" />
+      <workItem from="1590500309739" duration="2694000" />
+      <workItem from="1590519693521" duration="8044000" />
+      <workItem from="1590528987387" duration="218000" />
+      <workItem from="1590530358443" duration="953000" />
+      <workItem from="1590531381279" duration="2981000" />
+      <workItem from="1590577696959" duration="78000" />
+      <workItem from="1590581589024" duration="604000" />
+      <workItem from="1590603091140" duration="13341000" />
+      <workItem from="1590695860570" duration="8437000" />
+      <workItem from="1590706569295" duration="192000" />
+      <workItem from="1590714218094" duration="4762000" />
+      <workItem from="1590748429198" duration="1573000" />
+      <workItem from="1590759018145" duration="12000" />
+      <workItem from="1590760243220" duration="604000" />
+      <workItem from="1590762699235" duration="235000" />
+      <workItem from="1590763223402" duration="2922000" />
+      <workItem from="1590773272875" duration="152000" />
+      <workItem from="1590777656090" duration="4368000" />
+      <workItem from="1590955329012" duration="2084000" />
+      <workItem from="1590958203717" duration="488000" />
+      <workItem from="1590958953767" duration="18000" />
+      <workItem from="1602619497454" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1602620179817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602620179817" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1602620179817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602620179817" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1602620179817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602620179817" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1602620179817">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602620179817" />
+  </component>
+</project>

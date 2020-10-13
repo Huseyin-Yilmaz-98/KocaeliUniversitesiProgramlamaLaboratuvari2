@@ -1,0 +1,15 @@
+CREATE TABLE IF NOT EXISTS turler  (tur_id INTEGER PRIMARY KEY AUTOINCREMENT,name CHAR (60) NOT NULL);
+INSERT INTO turler(name) VALUES('Aksiyon ve Macera');
+INSERT INTO turler(name) VALUES('Bilim Kurgu ve Fantastik Yapımlar');
+INSERT INTO turler(name) VALUES('Romantik');
+INSERT INTO turler(name) VALUES('Drama');
+INSERT INTO turler(name) VALUES('Çocuk ve Aile');
+INSERT INTO turler(name) VALUES('Belgesel');
+INSERT INTO turler(name) VALUES('Komedi');
+INSERT INTO turler(name) VALUES('Aksiyon');
+INSERT INTO turler(name) VALUES('Korku');
+INSERT INTO turler(name) VALUES('Bilim ve Doğa');
+INSERT INTO turler(name) VALUES('Bilim Kurgu');
+INSERT INTO turler(name) VALUES('Gerilim');
+INSERT INTO turler(name) VALUES('Anime');
+INSERT INTO turler(name) VALUES('Reality Program');
